@@ -1,0 +1,57 @@
+/*подключение переменные цвета и шрифта*/
+@import "./utils/_variables";
+
+/*сброс стилей*/
+@import "./utils/_reset";
+
+/*подключение стилей контейнира*/
+@import "./common/_container";
+
+/*подключение стилей секции*/
+@import "./common/_section";
+
+/*visually-hidden*/
+@import "./common/_visual-hidden";
+
+/*подключение стилей current*/
+@import "./common/_current";
+
+
+/*подключение стилей header*/
+@import "./components/_header";
+
+/*подключение стилей logo*/
+@import "./common/_logo";
+
+/*подключение стилей hero*/
+@import "./components/_hero";
+
+/*подключение стилей для buttons*/
+@import "./common/_button";
+
+/*подключение стилей для секции details*/
+@import "./components/_details";
+
+/*подключение стилей для секции doings*/
+@import "./components/_doing";
+
+/*подключение стилей для секции team*/
+@import "./components/_team";
+
+/*подключение стилей для секции clients*/
+@import "./components/_clients";
+
+/*подключение стилей для секции footer*/
+@import "./components/_footer";
+
+/*подключение стилей для секции modal*/
+@import "./common/_modal";
+
+/*подключение стилей для секции modal-form*/
+@import "./common/_modal-form";
+
+/*подключение стилей для секции gallery btn*/
+@import "./components/_gallery-btn";
+
+/*подключение стилей для секции gallery list*/
+@import "./components/_gallery-cards";

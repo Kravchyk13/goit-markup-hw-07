@@ -1,0 +1,134 @@
+.footer {
+    background-color: var(--primary-background-color);
+    padding: 60px 0;
+}
+
+.footer__container {
+    display: flex;
+    align-items: baseline;
+
+}
+
+.footer__adress {
+    margin-top: 20px;
+    font-style: normal;
+}
+
+.footer__second--adress {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+
+    color: var(--primary-first-text-color);
+}
+
+.footer__item:not(:last-child) {
+    margin-bottom: 9px;
+}
+
+
+.footer__mail,
+.footer__tel {
+    font-weight: 400;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+
+    color: var(--foter-mail-color);
+}
+
+.footer__social--text,
+.footer__form--text {
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.42;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: var(--primary-first-text-color);
+}
+
+.footer__box:not(:last-child) {
+    margin-right: 70px;
+    flex-grow: 1;
+}
+
+.footer__social--list {
+    display: flex;
+}
+
+.footer__social--item:not(:last-child) {
+    margin-right: 10px;
+}
+
+.footer__social--link {
+    display: flex;
+    width: 44px;
+    height: 44px;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    color: var(--primary-first-text-color);
+
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.footer__social--icon {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
+
+.footer__social--link:hover,
+.footer__social--link:focus {
+    background-color: var(--accent-color);
+}
+
+.footer__form {
+    display: flex;
+}
+
+.footer__form--input {
+    padding: 15px 0 15px 16px;
+    margin-right: 12px;
+    width: 358px;
+    height: 50px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+    background-color: var(--primary-background-color);
+    border-radius: 4px;
+
+    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.footer__submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__form--icon {
+    margin-left: 10px;
+
+    width: 24px;
+    height: 24px;
+
+    fill: currentColor;
+}
+
+.footer__form--input:focus {
+    border-color: var(--accent-color);
+    outline: none;
+}

@@ -1,0 +1,174 @@
+.header {
+}
+.container {
+}
+.header__container {
+}
+.header__nav {
+}
+.header__logo {
+}
+.header__list {
+}
+.header__item {
+}
+.header__link {
+}
+.current {
+}
+.header__mail--link {
+}
+.header__icon--mail {
+}
+.header__tel--link {
+}
+.header__icon--tel {
+}
+.hero {
+}
+.hero__container {
+}
+.hero__title {
+}
+.hero__btn {
+}
+.section {
+}
+.visually-hidden {
+}
+.details__list {
+}
+.details__item {
+}
+.details__box--icon {
+}
+.details__icon {
+}
+.details__title {
+}
+.details__text {
+}
+.doing__section {
+}
+.doing__title {
+}
+.doing__list {
+}
+.doing__item {
+}
+.doing__box {
+}
+.doing__text {
+}
+.team {
+}
+.team__first--title {
+}
+.team__list {
+}
+.team__item {
+}
+.team__text--container {
+}
+.team__second--title {
+}
+.team__text {
+}
+.team__social--list {
+}
+.team__social--item {
+}
+.team__social--link {
+}
+.team__social--icon {
+}
+.clients__tittle {
+}
+.clients__list {
+}
+.clients__item {
+}
+.clients__link {
+}
+.clients__icon {
+}
+.link {
+}
+.footer {
+}
+.footer__container {
+}
+.footer__box {
+}
+.footer__logo {
+}
+.foote__-adress {
+}
+.footer__list {
+}
+.footer__item {
+}
+.footer__second--adress {
+}
+.footer__mail {
+}
+.footer__tel {
+}
+.footer__social--text {
+}
+.footer__social--list {
+}
+.footer__social--item {
+}
+.footer__social--link {
+}
+.footer__social--icon {
+}
+.footer__form--text {
+}
+.footer__form {
+}
+.footer__form--input {
+}
+.footer__form--btn--submit {
+}
+.footer__submit {
+}
+.footer__form--icon {
+}
+.backdrop {
+}
+.is-hidden {
+}
+.modal {
+}
+.modal__btn {
+}
+.modal__icon {
+}
+.modal__form--text {
+}
+.modal__form {
+}
+.modal__form--field {
+}
+.modal__form--wrapper {
+}
+.modal__form--input {
+}
+.modal__form--icon {
+}
+.modal__form--textarea {
+}
+.modal__form--label-checkbox {
+}
+.modal__form--checkbox-input {
+}
+.modal__form--checkbox-icon {
+}
+.modal__form--checkbox-text {
+}
+.modal__form--checkbox-link {
+}
+.modal__form--btn-submit {
+}
