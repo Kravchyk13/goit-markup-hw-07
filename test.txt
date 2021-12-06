@@ -1,28 +1,28 @@
-.header {
+.navigation__icon--contacts {
 }
 .container {
 }
-.header__container {
+.navigation__icon--contacts__container {
 }
-.header__nav {
+.navigation__icon--contacts__nav {
 }
-.header__logo {
+.navigation__icon--contacts__logo {
 }
-.header__list {
+.navigation__list {
 }
-.header__item {
+.navigation__item {
 }
-.header__link {
+.navigation__link {
 }
 .current {
 }
-.header__mail--link {
+.navigation__icon--contacts__mail--link {
 }
-.header__icon--mail {
+.navigation__icon--contacts__icon--mail {
 }
-.header__tel--link {
+.navigation__icon--contacts__tel--link {
 }
-.header__icon--tel {
+.navigation__icon--contacts__icon--tel {
 }
 .hero {
 }
@@ -68,19 +68,19 @@
 }
 .team__item {
 }
-.team__text--container {
+.team__thumbr {
 }
-.team__second--title {
+.team__title {
 }
 .team__text {
 }
-.team__social--list {
+.social {
 }
-.team__social--item {
+.social__item {
 }
-.team__social--link {
+.social__link {
 }
-.team__social--icon {
+.social__icon {
 }
 .clients__tittle {
 }
@@ -114,11 +114,11 @@
 }
 .footer__social--text {
 }
-.footer__social--list {
+.social__link {
 }
-.footer__social--item {
+.social__item {
 }
-.footer__social--link {
+.social__icon {
 }
 .footer__social--icon {
 }
@@ -227,9 +227,9 @@
 }
 .gallery__overlay--box {
 }
-.gallery__box--text {
+.gallery__overlay--text {
 }
-.gallery__text--container {
+.gallery__trumb {
 }
 .gallery__title {
 }

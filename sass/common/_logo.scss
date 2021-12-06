@@ -1,29 +1,17 @@
-.header__logo {
-    margin-right: 90px;
+.logo {
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 
-    font-family: Raleway, sans-serif;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
-
-    color: var(--primary-second-text-color);
+  color: var(--accent-color);
 }
 
-.header__logo > span {
-    color: var(--accent-color);
+.logo__dark {
+  color: var(--primary-second-text-color);
 }
 
-.footer__logo {
-    font-family: Raleway, sans-serif;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
-
-    color: var(--primary-first-text-color);
-}
-
-.footer__logo > span {
-    color: var(--accent-color);
+.logo__light {
+  color: var(--primary-first-text-color);
 }
